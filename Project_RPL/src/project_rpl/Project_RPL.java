@@ -18,7 +18,6 @@ public class Project_RPL {
         System.out.println("Hello lucky");
         System.out.println("Hallo Devanda apakabar apakah kamu baik baik saja");
         System.out.println("lmao");
-        System.out.println("oyy deva masuk ga");
     }
     
 }
